@@ -1,0 +1,1 @@
+This is a collection of the keymaps I use for my keyboards. All of them will probably be very weird keyboards, but the gist is: the lazier the layout is, the better. So your fingers might be doing a lot of stuff, but as long as we keep it close to the home row it would be alright.
